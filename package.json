@@ -1,0 +1,17 @@
+{
+  "name": "loadTile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "0.5.5",
+    "filehound": "1.17.4",
+    "readline-sync": "1.4.10",
+    "tiler-arcgis-bundle": "0.3.2",
+    "xml-query": "1.5.0",
+    "xml-reader": "2.4.3"
+  }
+}
